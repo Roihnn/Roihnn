@@ -31,11 +31,14 @@
 </p>
 
 <p align="left">
-  - 🔭  A curious dev who codes for fun and loves random tech experiments.<br>
-  - 💻 Always exploring — from apps and web to hardware stuffde<br>
- > ⚡ **Core Principle:** *"There's nothing you can't do if you try. We're going to alter the rules of the world from the ground up with the power of creation."*
+### 🚀 Engineering Focus
+Develop high-performance applications with clean structures and scalable architectures.
+
+### 💻 Continuous Learning
+Continuously experiment, push boundaries, and expand your technical scope.
+ > ⚡ Core Principle: "There's nothing you can't do if you try. We're going to alter the rules of the world from the ground up with the power of creation."
 </p>
-> ⚡ **Core Principle:** *"There's nothing you can't do if you try. We're going to alter the rules of the world from the ground up with the power of creation."*
+
 <br clear="both">
 
 ---
