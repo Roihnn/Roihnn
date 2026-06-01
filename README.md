@@ -30,25 +30,12 @@
   Halo! Saya <strong>Roihann</strong>. Saya seorang pengembang perangkat lunak yang gemar mengeksplorasi teknologi baru dan membangun proyek-proyek kreatif.
 </p>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🚀 Current Focus</h4>
-      <p>Membangun aplikasi web yang responsif, interaktif, dan berorientasi pada performa tinggi.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>💻 Tech Exploration</h4>
-      <p>Menjelajahi ekosistem web modern, optimasi sisi back-end, serta pengelolaan basis data yang andal.</p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <h4>⚡ Core Principle</h4>
-      <p><i>"Mewujudkan ide kreatif menjadi baris kode yang bersih, efisien, dan berdampak nyata."</i></p>
-    </td>
-  </tr>
-</table>
-
+<p align="left">
+  Holaa I'm Roihann <br><br>
+  - 🔭  A curious dev who codes for fun and loves random tech experiments.<br>
+  - 💻 Always exploring — from apps and web to hardware stuffde<br>
+  - ⚡"Kreativitas dimulai dari rasa ingin tahu." ☕
+</p>
 <br clear="both">
 
 ---
