@@ -40,8 +40,6 @@
 
 ## 🛠️ Languages and Tools
 
-Untuk memberikan kesan modern dan bersih, ikon teknologi di bawah disusun rapi tanpa kotak link yang mengganggu, menggunakan animasi halus saat disorot di GitHub:
-
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45" style="margin-right: 5px;"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45" style="margin-right: 5px;"/></a>
@@ -60,18 +58,6 @@ Untuk memberikan kesan modern dan bersih, ikon teknologi di bawah disusun rapi t
 
 ---
 
-## 📊 GitHub Analytics
-
-*Bagian statistik ini telah disejajarkan secara berdampingan (side-by-side) agar layout profil terlihat seimbang dan profesional pada layar desktop.*
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7zenard&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="165" style="margin-right: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=7zenard&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" height="165" />
-</p>
-
----
-
-## 🐍 Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/7zenArd/7zenArd/output/snake.svg" alt="Snake Animation" width="100%" />
