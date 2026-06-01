@@ -5,7 +5,7 @@
   <br>
 
   <!-- Title & Subtitle -->
-  <h1>Hey There, I'm Roihann 👋</h1>
+  <h1>Hey There, I'm Roihann </h1>
   <p><i>A passionate developer weaving ideas into clean, functional code.</i></p>
 
   <!-- Tombol Sosial Media Modern Minimalis (Ganti URL jika diperlukan) -->
@@ -24,7 +24,7 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" height="160" src="https://giffiles.alphacoders.com/218/218625.gif" alt="Anime Illustration" style="border-radius: 10px; margin-left: 20px;" />
+<img align="right" height="160" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Vvc3JwdjliNGU0M2dmemZqcG9yemRvOWpvaGxhMGltdmFucnlpcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Anime Illustration" style="border-radius: 10px; margin-left: 20px;" />
 
 <p align="left">
   Halo! Saya <strong>Roihann</strong>. Saya seorang pengembang perangkat lunak yang gemar mengeksplorasi teknologi baru dan membangun proyek-proyek kreatif.
