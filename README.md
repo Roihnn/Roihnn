@@ -33,8 +33,9 @@
 <p align="left">
   - 🔭  A curious dev who codes for fun and loves random tech experiments.<br>
   - 💻 Always exploring — from apps and web to hardware stuffde<br>
-  - ⚡"Kreativitas dimulai dari rasa ingin tahu." ☕
+ > ⚡ **Core Principle:** *"There's nothing you can't do if you try. We're going to alter the rules of the world from the ground up with the power of creation."*
 </p>
+> ⚡ **Core Principle:** *"There's nothing you can't do if you try. We're going to alter the rules of the world from the ground up with the power of creation."*
 <br clear="both">
 
 ---
