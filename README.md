@@ -1,6 +1,6 @@
 <div align="center">
   <!-- GIF Header Modern -->
-  <img height="180" src="https://giffiles.alphacoders.com/218/218625.gif" alt="Coding GIF" />
+  <img  src="https://giffiles.alphacoders.com/218/218625.gif"  />
 
   <br>
 
