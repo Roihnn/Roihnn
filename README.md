@@ -24,21 +24,35 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" height="160" src="https://i.imgflip.com/65efzo.gif" alt="Anime Illustration" style="border-radius: 10px; margin-left: 20px;" />
+<img align="right" height="160" src="https://giffiles.alphacoders.com/218/218625.gif" alt="Anime Illustration" style="border-radius: 10px; margin-left: 20px;" />
 
 <p align="left">
-  Halo! Saya <strong>Roihann</strong> dari Indonesia. Saya seorang pengembang perangkat lunak yang gemar mengeksplorasi teknologi baru dan membangun proyek-proyek kreatif.
+  Halo! Saya <strong>Roihann</strong>. Saya seorang pengembang perangkat lunak yang gemar mengeksplorasi teknologi baru dan membangun proyek-proyek kreatif.
 </p>
 
-- 🔭 **Fokus Saat Ini:** Mengembangkan aplikasi berbasis web modern dan eksperimen teknologi kasual.
-- 💻 **Eksplorasi:** Selalu tertarik menjelajahi ekosistem aplikasi, web programming, hingga integrasi perangkat keras.
-- ⚡ **Filosofi:** *"Kreativitas dimulai dari rasa ingin tahu."* ☕
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🚀 Current Focus</h4>
+      <p>Membangun aplikasi web yang responsif, interaktif, dan berorientasi pada performa tinggi.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💻 Tech Exploration</h4>
+      <p>Menjelajahi ekosistem web modern, optimasi sisi back-end, serta pengelolaan basis data yang andal.</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h4>⚡ Core Principle</h4>
+      <p><i>"Mewujudkan ide kreatif menjadi baris kode yang bersih, efisien, dan berdampak nyata."</i></p>
+    </td>
+  </tr>
+</table>
 
 <br clear="both">
 
 ---
 
-## 🛠️ Languages and Tools
 
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45" style="margin-right: 5px;"/></a>
