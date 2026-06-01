@@ -36,6 +36,7 @@ Develop high-performance applications with clean structures and scalable archite
 
 ### 💻 Continuous Learning
 Continuously experiment, push boundaries, and expand your technical scope.
+
  > ⚡ Core Principle: "There's nothing you can't do if you try. We're going to alter the rules of the world from the ground up with the power of creation."
 </p>
 
