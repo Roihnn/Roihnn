@@ -9,13 +9,13 @@
   <p><i>A passionate developer weaving ideas into clean, functional code.</i></p>
 
   <!-- Tombol Sosial Media Modern Minimalis (Ganti URL jika diperlukan) -->
-  <a href="mailto:roihan@example.com">
+  <a href="mailto:roihanasyirof@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Gmail" />
   </a>
-  <a href="https://instagram.com/roihann">
+  <a href="https://instagram.com/rhnzsf_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" alt="Instagram" />
   </a>
-  <a href="https://discord.com/users/yourid">
+  <a href="https://discord.com/users/748875308353978489">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="30" alt="Discord" />
   </a>
 </div>
@@ -27,14 +27,14 @@
 <img align="right" height="160" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Vvc3JwdjliNGU0M2dmemZqcG9yemRvOWpvaGxhMGltdmFucnlpcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Anime Illustration" style="border-radius: 10px; margin-left: 20px;" />
 
 <p align="left">
-  Halo! Saya <strong>Roihann</strong>. Saya seorang pengembang perangkat lunak yang gemar mengeksplorasi teknologi baru dan membangun proyek-proyek kreatif.
+  Halo! Saya <strong>Roihann</strong>.
 </p>
 
 <p align="left">
-### 🚀 Engineering Focus
+ - 🚀 Engineering Focus
 Develop high-performance applications with clean structures and scalable architectures.
 
-### 💻 Continuous Learning
+ - 💻 Continuous Learning
 Continuously experiment, push boundaries, and expand your technical scope.
 
  > ⚡ Core Principle: "There's nothing you can't do if you try. We're going to alter the rules of the world from the ground up with the power of creation."
