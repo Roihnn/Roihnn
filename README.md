@@ -31,7 +31,6 @@
 </p>
 
 <p align="left">
-  Holaa I'm Roihann <br><br>
   - 🔭  A curious dev who codes for fun and loves random tech experiments.<br>
   - 💻 Always exploring — from apps and web to hardware stuffde<br>
   - ⚡"Kreativitas dimulai dari rasa ingin tahu." ☕
