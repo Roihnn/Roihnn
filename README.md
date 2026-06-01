@@ -31,7 +31,7 @@
 </p>
 
 <p align="left">
- - 🚀 Engineering Focus
+  - 🚀 Engineering Focus
 Develop high-performance applications with clean structures and scalable architectures.
 
  - 💻 Continuous Learning
